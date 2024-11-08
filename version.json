@@ -3,7 +3,7 @@
     {
       "name": "model",
       "version": "1.0",
-      "url": "https://raw.githubusercontent.com/Shumtatho/Game/main/AssetBundles/mybundle"
+      "url": "https://github.com/Shumtatho/Game/blob/main/model.json"
     }
   ]
 }
